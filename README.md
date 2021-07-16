@@ -1,6 +1,4 @@
 <h1 align="center">Hello I'm Aniruddh </h1>
 <p align="center">
-  <b>Welcome to my profile </b><br>
-   <br/>
-  <img src="https://user-images.githubusercontent.com/87496634/126014732-059930bb-80c4-46a8-a137-4642b6ae7c36.jpg" width="150" height="150">
+  <img src="https://user-images.githubusercontent.com/87496634/126015444-e1fbcd96-a62d-43f0-b763-897c548e84a6.jpg" width="300" height="150">
 </p>
