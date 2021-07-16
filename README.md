@@ -2,15 +2,9 @@
 <p align="center">
   <b>Welcome to my GitHub </b><br>
    <br/>
-    <img src="https://media4.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b76114447ebf8ea64f13217859fbf4f185e4b3e11beb1&rid=giphy.gif&ct=s" width="100" height="100">
+    <img src="dasxex6-f7a091bd-d821-4a20-8df3-d4989a4b0e5a](https://user-images.githubusercontent.com/87496634/126014240-294dd42b-7450-4f10-9acb-a9e8956258d9.png" width="100"          height="100">
 </p>
 
-------
-During the pandmeic is decided to use my spare to create am Ardunio sanitizer dispenser to minimize touching hand sanitizer bottles. I created an automatic hand sanitizer dispenser with an Arduino Nano, an ultrasonic sensor, and a 12v pump. Using the ultrasonic sensor, I calculated the distance between the hand and the dispenser. The Arduino activates the pump when the hand comes near the dispenser, and sanitizer is ejected into the hand from the pump.
-
-
-# Schematic Diagram
-![schematic diagram](https://user-images.githubusercontent.com/83683425/125832675-02c2915c-82df-41a8-ae89-f0cbadbecd71.PNG)
 
 
 
