@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aniruddh Rao</h1>
-<h3 align="center">A passionate frontend developer from Toronto 🍁</h3>
+<h1 align="center">Hi 👋, I'm Aniruddh or Ani for short</h1>
+<h3 align="center">A passionate student developer from Toronto 🍁</h3>
 
 - 🌱 I’m currently learning **Rust**
 
