@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniruddh Rao</h1>
 <h3 align="center">A passionate student developer from Toronto 🍁</h3>
 
-<h3 align="left">Connect with me: <href>https://www.linkedin.com/in/aniruddhrao03/</href> </h3>
+<h3 align="left">Connect with me: <href>https://www.linkedin.com/in/aniruddhrao03/<Aniruddh03/href> </h3>
 <p align="left">
 </p>
 
