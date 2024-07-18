@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student developer from Toronto 🍁</h3>
 
 - 🌱 I’m currently learning **Rust**
-- 🏛️ I’m currently Interning at the **Bank of Canada**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
